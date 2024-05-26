@@ -1,0 +1,16 @@
+*{
+	font-family: Verdana;
+}
+h1{
+	background-color: rgba(132, 0, 0);
+	text-align: center;
+	color: white;
+	font-size: 60px;
+}
+.tytul{
+	background-color: rgba(132, 0, 0);
+	color: white;
+}
+h3{
+	font-size: 30px;
+}
